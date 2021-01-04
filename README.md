@@ -1,2 +1,3 @@
-# Algorithm_Study
-매일 아침 알고리즘 공부🎨
+# BOJ_Algorithm
+
+백준 단계별로 풀어보기 https://www.acmicpc.net/step 정리
