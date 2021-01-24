@@ -1,6 +1,7 @@
 # BOJ_Algorithm
 
 BOJ_문제번호.py
+
 BOJ_문제번호_2.py -> developed solution
 
 ## 20201228 ~ing
