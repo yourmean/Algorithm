@@ -7,7 +7,7 @@ Each section has its own separate README with related explanations and links for
 ---
 
 ### ✔ Contents
-|       Date       | Discription | Language | Link |
+|       Date       | Description | Language | Link |
 |:------------------:|:------------------------------------------:|:------------:|:--------:
 | 2020.07 - 2021.01 | Tobig's 14th Algorithm Team | Python | [ Github ](https://github.com/Caying-Jiyong/Tobigs14_Algorithm-Team)
 | 2020.12 - Present | Baekjoon Online Judge (present repo) | Python | [ Github ](https://github.com/yourmean/BOJ_Algorithm)
