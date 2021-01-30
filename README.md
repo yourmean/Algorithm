@@ -1,8 +1,10 @@
 # Algorithm
-This repository contains python based solutions for algorithm problems that I implemented. <br>
-Each section has its own separate README with related explanations and links for further reading.
+This repository contains python based solutions for algorithm problems that I implemented.
 
+Each section has its own separate README with related explanations and links for further reading.
 <br>
+
+---
 
 ### ✔ Contents
 |       Date       | Discription | Language | Link |
@@ -11,9 +13,6 @@ Each section has its own separate README with related explanations and links for
 | 2020.12 - Present | Baekjoon Online Judge (present repo) | Python | [ Github ](https://github.com/yourmean/BOJ_Algorithm)
 | 2021.01 - Present | Programmers - 1day 1commit | Python | [ Github ](https://github.com/yourmean/Programmers_Algorithm_HBYM)
 | 2021.01 - Present | 이것이 취업을 위한 코딩 테스트다 with 파이썬 | Python | [ Github(Author) ](https://github.com/ndb796/python-for-coding-test)
-
-<br>
----
 
 <br>
 
@@ -26,10 +25,9 @@ Each section has its own separate README with related explanations and links for
 - Backtracking
 - Branch & Bound
 
----
-
+<br>
 
 ### ✔ Additional Study
 |       Category       | Discription |
 |:-----------------:|:----------------------------------------:
-| . | To be uploaded
+| . | To be uploaded                                        .
