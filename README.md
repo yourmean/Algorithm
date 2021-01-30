@@ -28,6 +28,6 @@ Each section has its own separate README with related explanations and links for
 <br>
 
 ### ✔ Additional Study
-|       Category       | Discription |
+|       Category       | Description |
 |:-----------------:|:----------------------------------------:
 | . | To be uploaded                                        .
