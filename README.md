@@ -4,9 +4,8 @@ This repository contains python based solutions for algorithm problems that I im
 Each section has its own separate README with related explanations and links for further reading.
 
 <br>
-<br>
 
-### Contents
+### 📒 Contents
 |       Date       | Description | Language | Link |
 |:------------------:|:------------------------------------------|:------------:|:--------:
 | 2020.07 - 2021.01 | Tobig's 14th Algorithm Team | Python | [ Github ](https://github.com/Caying-Jiyong/Tobigs14_Algorithm-Team)
